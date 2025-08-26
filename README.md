@@ -38,8 +38,3 @@ This allows the vehicle to understand its environment in a structured way, enabl
 
 
 
-# How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/NickosKokosal/Instance_Segmentation_Coursework.git
-   cd Instance_Segmentation_Coursework
