@@ -1,0 +1,12 @@
+# outputs
+*.pdf
+*.xlsx
+*.csv
+
+# python cache
+__pycache__/
+*.pyc
+
+# virtual envs
+.venv/
+venv/
