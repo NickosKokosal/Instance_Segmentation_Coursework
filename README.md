@@ -4,7 +4,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
-This repository contains the coursework for the **Instance Segmentation assignment** from the Course: Intelligent Transportation System Design of my 2nd MSc
+This repository contains the coursework for the **Instance Segmentation assignment** from the Course: Intelligent Transportation Systems Design of my 2nd MSc.
 The task was to create a sequence of frames simulating a **driving scene**, where the vehicle perceives and recognizes its environment using **instance segmentation algorithms**.
 
 
